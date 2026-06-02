@@ -1,3 +1,3 @@
 # Welcome to my profile
 
-Realised I was on the wrong (origin) branch, when I first added the profile.md file. 
+Repository you're on is my evidence of learning for INFO1111 self-learn Advanced Task.
